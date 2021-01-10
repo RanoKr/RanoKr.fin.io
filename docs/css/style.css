@@ -2,30 +2,3 @@ body {text-align:center;
    background-color:#708090;
   }
 
-h1 {
-  font-family:Arial, Verdana,sans-serif;
-  font-size:21pt;
-  text-align:center;
-  }
-.box1 {
-  background-color:#708090; 
-  color:#000000;
-  width:100px;
-  height:30px;
-  border:5px #000000;
-}
-.box2 {
-  background-color:#708090; 
-  color:#000000; 
-  width:100px;
-  height:30px;
-  border:5px #000000;
-}
-.box3 {
-  background-color:#708090; 
-  color:#000000; 
-  width:200px;
-  height:30px;
-  border:5px #000000;
-}
-
