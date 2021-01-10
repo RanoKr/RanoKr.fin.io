@@ -1,6 +1,25 @@
 body {
   font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
   font-size: 11pt; /* Размер основного шрифта в пунктах  */
+  }
+#p1 {
   background-color: #708090; /* Цвет фона веб-страницы */
   color: #000000; /* Цвет основного текста */ 
+  width: 50px;
+  height: 20px;
+  border:5px solid-black;
+}
+#p2 {
+  background-color: #708090; /* Цвет фона веб-страницы */
+  color: #000000; /* Цвет основного текста */ 
+  width: 50px;
+  height: 20px;
+  border:5px solid-black;
+}
+#p3 {
+  background-color: #708090; /* Цвет фона веб-страницы */
+  color: #000000; /* Цвет основного текста */ 
+  width: 50px;
+  height: 20px;
+  border:5px solid-black;
 }
